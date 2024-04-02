@@ -32,3 +32,12 @@ https://drive.google.com/file/d/1NUjLkEI6d0e0KuFC00PNHX_aFYJWSaJf/view?usp=shari
 https://drive.google.com/file/d/1nkPqglbnNo7gQ6fGmS6vlibQOybgnqhZ/view?usp=sharing
 https://drive.google.com/file/d/1Fsw2G-HFFMgFa-Kzi-MmhrjLSjcvgydm/view?usp=sharing
 https://drive.google.com/file/d/1wiNby1oIEPFohgeOdrtg4ZHy5f_2mhei/view?usp=sharing
+
+or using gdown library
+like 
+ pip3 install gdown
+ gdown 1NUjLkEI6d0e0KuFC00PNHX_aFYJWSaJf
+ gdown 1nkPqglbnNo7gQ6fGmS6vlibQOybgnqhZ
+ gdown 1Fsw2G-HFFMgFa-Kzi-MmhrjLSjcvgydm
+ gdown 1wiNby1oIEPFohgeOdrtg4ZHy5f_2mhei
+
