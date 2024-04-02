@@ -35,9 +35,14 @@ https://drive.google.com/file/d/1wiNby1oIEPFohgeOdrtg4ZHy5f_2mhei/view?usp=shari
 
 or using gdown library
 like 
+ 
  pip3 install gdown
- gdown 1NUjLkEI6d0e0KuFC00PNHX_aFYJWSaJf
+ 
+ gdown 1NUjLkEI6d0e0KuFC00PNHX_aFYJWSaJf 
+ 
  gdown 1nkPqglbnNo7gQ6fGmS6vlibQOybgnqhZ
+ 
  gdown 1Fsw2G-HFFMgFa-Kzi-MmhrjLSjcvgydm
+ 
  gdown 1wiNby1oIEPFohgeOdrtg4ZHy5f_2mhei
 
